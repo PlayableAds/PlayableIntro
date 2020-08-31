@@ -1,15 +1,20 @@
 # PlayableAds可玩广告
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=true} -->
+- 目录
+    + [什么是可玩广告](#什么是可玩广告)
+    + [可玩广告有哪些优点](#可玩广告有哪些优点)
+    + [可玩广告的基本要求](#可玩广告的基本要求)
+    + [可玩广告设计要点](#可玩广告设计要点)
+    + [制作一款可玩广告](#制作一款可玩广告)
 
-### 什么是可玩广告(PlayableAds)？
+### 什么是可玩广告
 
 简单来说，可玩广告是完整游戏的“迷你版”，即将游戏的故事特点、美术风格、操作方式等提炼为一个<b style='color:salmon'>HTML5迷你游戏</b>。
 让玩家无需下载即可享受沉浸式的试玩体验，在短时间内读懂游戏核心内容，加深用户理解，从而达到提高曝光、挖掘潜在用户的目的。
 
 随着移动用户的爆炸式增长，HTML5可玩广告正成为品牌提高<b style='color:salmon'>广告投入参与度</b>和<b style='color:salmon'>投资回报率</b>的重要工具。
 
-### 可玩广告有哪些优点？
+### 可玩广告有哪些优点
 
 我们创建了高度吸引人的HTML5可试玩广告的目的：
 
@@ -22,7 +27,7 @@
 
 高达28%美国专业营销人员认为可玩广告是最有效的应用内广告形式，71%的广告主认可可玩广告的效果。可以说，可玩广告是最受欢迎的广告形式之一。
 
-### 可玩广告的基本要求？
+### 可玩广告的基本要求
 
 1. 可玩广告一般具有互动性，需要支持横屏和竖屏，并支持一定的比例，如 <kbd>全屏</kbd>、<kbd>19:9</kbd>、<kbd>4:3</kbd>
 2. 游戏的压缩包一般不能超过5M
@@ -56,7 +61,7 @@
 | IronSource | https://demos.ironsrc.com/test-tool/?adUnitLoader=dapi&mode=testing |
 | Mintegral | https://www.mindworks-creative.com/review/doc/ |
 
----
-> 为您制作优质PlayableAds ➡️  联系邮箱：<b>playable@aliyun.com</b>
+> 为您制作优质PlayableAds  
+联系邮箱：<b>playable@aliyun.com</br>
 
 
