@@ -1,6 +1,6 @@
 # PlayableAds可玩广告
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=true} -->
 
 ### 什么是可玩广告(PlayableAds)？
 
@@ -57,6 +57,6 @@
 | Mintegral | https://www.mindworks-creative.com/review/doc/ |
 
 ---
-> 为您制作优质PlayableAds ➡️ 联系邮箱：<b>playable@aliyun.com</b>
+> 为您制作优质PlayableAds ➡️  联系邮箱：<b>playable@aliyun.com</b>
 
 
